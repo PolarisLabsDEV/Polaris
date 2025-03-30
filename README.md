@@ -10,6 +10,18 @@
   [![Material-UI](https://img.shields.io/badge/MUI-5.11.0-blue.svg)](https://mui.com/)
   [![Vite](https://img.shields.io/badge/Vite-4.4.0-blue.svg)](https://vitejs.dev/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  
+  <p>
+    <a href="https://github.com/PolarisLabsDEV/Polaris">
+      <img src="https://img.shields.io/badge/GitHub-PolarisLabsDEV/Polaris-blue?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://x.com/PolarisLabs_AI">
+      <img src="https://img.shields.io/badge/Twitter-@PolarisLabs_AI-blue?style=flat-square&logo=twitter" alt="Twitter" />
+    </a>
+    <a href="https://polarislabs.me">
+      <img src="https://img.shields.io/badge/Website-polarislabs.me-blue?style=flat-square&logo=web" alt="Website" />
+    </a>
+  </p>
 </div>
 
 ## 🌟 Overview
@@ -36,7 +48,7 @@ POLARIS is a cutting-edge research project focused on climate change and its imp
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/polaris.git
+git clone https://github.com/PolarisLabsDEV/Polaris.git
 cd polaris
 ```
 

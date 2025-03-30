@@ -1,8 +1,16 @@
 {
-  "name": "polaris-project",
+  "name": "polaris",
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "description": "POLARIS - Advancing Climate Science Through Innovation and Collaboration",
+  "homepage": "https://polarislabs.me",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PolarisLabsDEV/Polaris.git"
+  },
+  "author": "PolarisLabs",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

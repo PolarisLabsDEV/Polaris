@@ -106,7 +106,6 @@ polaris/
 - **Publications**: Interactive publication database with search and filtering
 - **ResearchHighlights**: Showcase of key research findings
 - **Newsletter**: Email subscription component
-- **Contact**: Contact form with validation
 
 ### Pages
 
@@ -114,7 +113,6 @@ polaris/
 - **Research**: Research areas and findings
 - **Team**: Team member profiles
 - **Publications**: Searchable publication database
-- **Contact**: Contact information and form
 
 ## 🛠️ Technology Stack
 
@@ -151,21 +149,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our co
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌐 Links
-
-- [Project Website](https://polaris-research.org)
-- [Documentation](https://docs.polaris-research.org)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-
-## 📞 Contact
-
-For inquiries about collaboration or general questions:
-
-- **Email**: contact@polaris-research.org
-- **Twitter**: [@POLARISProject](https://twitter.com/POLARISProject)
-- **LinkedIn**: [POLARIS Project](https://linkedin.com/company/polaris-project)
 
 ## 🙏 Acknowledgments
 

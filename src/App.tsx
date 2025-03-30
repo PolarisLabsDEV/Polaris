@@ -13,7 +13,6 @@ const Home = lazy(() => import('./pages/Home'));
 const Research = lazy(() => import('./pages/Research'));
 const Team = lazy(() => import('./pages/Team'));
 const Publications = lazy(() => import('./pages/Publications'));
-const Contact = lazy(() => import('./pages/Contact'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 
 const App: React.FC = () => {
@@ -29,7 +28,6 @@ const App: React.FC = () => {
               <Route path="research" element={<Research />} />
               <Route path="team" element={<Team />} />
               <Route path="publications" element={<Publications />} />
-              <Route path="contact" element={<Contact />} />
             </Route>
             <Route path="*" element={<NotFound />} />
           </Routes>

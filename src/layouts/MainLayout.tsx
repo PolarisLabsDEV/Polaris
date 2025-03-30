@@ -25,10 +25,6 @@ import {
   Science as ScienceIcon,
   Group as GroupIcon,
   Article as ArticleIcon,
-  ContactMail as ContactIcon,
-  Facebook as FacebookIcon,
-  Twitter as TwitterIcon,
-  LinkedIn as LinkedInIcon,
 } from '@mui/icons-material';
 import { Link } from 'react-router-dom';
 
@@ -39,7 +35,6 @@ const menuItems = [
   { text: 'Research', icon: <ScienceIcon />, path: '/research' },
   { text: 'Team', icon: <GroupIcon />, path: '/team' },
   { text: 'Publications', icon: <ArticleIcon />, path: '/publications' },
-  { text: 'Contact', icon: <ContactIcon />, path: '/contact' },
 ];
 
 const MainLayout: React.FC = () => {
@@ -249,22 +244,6 @@ const MainLayout: React.FC = () => {
                   </ListItem>
                 ))}
               </List>
-            </Grid>
-            <Grid item xs={12} sm={4}>
-              <Typography variant="h6" gutterBottom>
-                Connect With Us
-              </Typography>
-              <Box sx={{ display: 'flex', gap: 2 }}>
-                <IconButton color="primary">
-                  <FacebookIcon />
-                </IconButton>
-                <IconButton color="primary">
-                  <TwitterIcon />
-                </IconButton>
-                <IconButton color="primary">
-                  <LinkedInIcon />
-                </IconButton>
-              </Box>
             </Grid>
           </Grid>
           <Divider sx={{ my: 3 }} />

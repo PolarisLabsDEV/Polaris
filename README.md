@@ -1,7 +1,7 @@
 # POLARIS Project
 
 <div align="center">
-  <img src="public/images/logo.png" alt="POLARIS Logo" width="200" />
+  <img src="public/images/logo.svg" alt="POLARIS Logo" width="200" />
   <h3>Advancing Climate Science Through Innovation and Collaboration</h3>
   <p>A modern web platform for climate research and scientific collaboration</p>
 
@@ -78,7 +78,7 @@ npm run build
 polaris/
 ├── public/                 # Static assets
 │   └── images/            # Image assets
-│       └── logo.png       # Project logo
+│       └── logo.svg       # Project logo (SVG format)
 ├── src/                   # Source code
 │   ├── components/        # Reusable React components
 │   │   ├── AnimatedSection/
